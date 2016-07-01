@@ -1,10 +1,10 @@
 name       : nuvola-app-google-play-music
-version    : 5.14
-release    : 1
+version    : 5.15
+release    : 2
 source     :
-    - https://github.com/tiliado/nuvola-app-google-play-music/archive/5.14.tar.gz : 1119a91320ee6c34a1a8f53f36ed66a43a272bd1a235532b3c7b3d3b5df45b2f
+    - https://github.com/tiliado/nuvola-app-google-play-music/archive/5.15.tar.gz : 579be729e60ccdaad0d944b1c32213f19af09eee861a7478296b3b139dde7da7
 license    : BSD-2-Clause
-component  : desktop.multimedia
+component  : multimedia.audio
 summary    : Google Play Music Integration for Nuvola Player 3.
 description: |
     Integration of Google Play Music into your linux desktop via Nuvola Player.
